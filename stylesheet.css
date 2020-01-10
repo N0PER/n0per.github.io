@@ -1,0 +1,21 @@
+body, td, th { font-family: Arial; font-size: 12px; color: rgb(0, 0, 0); margin: 0px; }
+.pn { font-weight: 700; color: rgb(153, 204, 0); font-size: 20px; font-family: Arial; }
+.psh1 { position: absolute; z-index: 1; }
+.psh2 { position: relative; left: 1px; top: 1px; font-weight: 700; color: rgb(85, 85, 85); font-size: 20px; font-family: Arial; }
+a:link { text-decoration: none; color: rgb(152, 203, 0); font-weight: 700; }
+a:visited { text-decoration: none; color: rgb(152, 203, 0); font-weight: 700; }
+a:hover { text-decoration: none; color: rgb(127, 166, 8); }
+a:active { text-decoration: none; }
+.comingsoon { border: 2px solid rgb(236, 236, 236); background-color: rgb(255, 255, 255); }
+.des { padding: 5px; }
+.screen { border: 1px solid rgb(221, 221, 221); background-color: rgb(236, 236, 236); padding: 4px; }
+.screen img { border: medium none; }
+.playgame { border: 1px solid rgb(221, 221, 221); background-color: rgb(236, 236, 236); padding: 5px; }
+.boxtitle { font-size: 12px; background-color: rgb(255, 255, 255); padding-top: 5px; padding-bottom: 5px; }
+.playgamedes { border: 1px solid rgb(221, 221, 221); background-color: rgb(236, 236, 236); padding: 10px 5px; }
+.playlink { text-align: center; font-size: 11px; }
+.playlink a:link { background-color: rgb(255, 255, 255); padding: 5px; color: rgb(153, 204, 0); font-weight: 700; font-size: 14px; text-decoration: none; }
+.playlink a:visited { background-color: rgb(255, 255, 255); padding: 5px; text-decoration: none; color: rgb(153, 204, 0); font-weight: 700; font-size: 14px; }
+.playlink a:hover { background-color: rgb(127, 166, 8); text-decoration: none; color: rgb(255, 255, 255); font-weight: 700; font-size: 14px; }
+.playlink a:active { text-decoration: none; }
+.logo { position: absolute; }
